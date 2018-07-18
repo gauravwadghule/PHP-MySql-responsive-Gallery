@@ -4,3 +4,4 @@ php gallery to load images from Mysql database. This gallery is responsive made 
 HOW TO USE?
 create /gallary in your parent directory.
 import images table. 
+insert image links in images table.
